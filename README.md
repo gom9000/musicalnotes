@@ -1,5 +1,5 @@
 # pianonotes
-my piano lessons excercises
+le mie lezioni ed esercizi
 
 ### Autocorso 1 (aprile/20)
 * [lezioni](notes/autocorso1.md)
