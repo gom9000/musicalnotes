@@ -14,6 +14,7 @@
 * [DO# minore](scale-lettura-80/do#-minore.mp3)
 * [SI maggiore](scale-lettura-80/si-maggiore.mp3)
 * [SOL# minore](scale-lettura-80/sol#-minore.mp3)
+* [FA maggiore](scale-lettura-80/fa-maggiore.mp3)
 
 
 #### Bartok - Mikrokosmos I
@@ -41,6 +42,7 @@
 * [22](bartok-mikrokosmos-I/22.mp3)
 * [23](bartok-mikrokosmos-I/23.mp3)
 * [24](bartok-mikrokosmos-I/24.mp3)
+* [25](bartok-mikrokosmos-I/25.mp3)
 
 
 #### Duvernoy - Op.176 - Scuola Primaria
@@ -52,3 +54,7 @@
 * [06](duvernoy-op176-scuola-primaria/06.mp3)
 * [07](duvernoy-op176-scuola-primaria/07.mp3)
 * [08](duvernoy-op176-scuola-primaria/08.mp3)
+* [09](duvernoy-op176-scuola-primaria/09.mp3)
+* [10](duvernoy-op176-scuola-primaria/10.mp3)
+* [11](duvernoy-op176-scuola-primaria/11.mp3)
+* [12](duvernoy-op176-scuola-primaria/12.mp3)
