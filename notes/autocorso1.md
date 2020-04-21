@@ -107,6 +107,8 @@ Elementi di studio di scale e arpeggi:
 *studi*:
 * Duvernoy #7 m.u. metr. 80-120 (REC)
 * Duvernoy #9 varianti battute 1-3 (REC)
+* Duvernoy #10, #12 (REC)
+* Duvernoy #11 lettura espressiva con pedale
 
 *lettura*:
 * Mikrokosmos #25 (REC)
