@@ -12,6 +12,8 @@
 * [FA# minore](scale-lettura-80/fa#-minore.mp3)
 * [MI maggiore](scale-lettura-80/mi-maggiore.mp3)
 * [DO# minore](scale-lettura-80/do#-minore.mp3)
+* [SI maggiore](scale-lettura-80/si-maggiore.mp3)
+* [SOL# minore](scale-lettura-80/sol#-minore.mp3)
 
 
 #### Bartok - Mikrokosmos I
@@ -38,6 +40,7 @@
 * [21](bartok-mikrokosmos-I/21.mp3)
 * [22](bartok-mikrokosmos-I/22.mp3)
 * [23](bartok-mikrokosmos-I/23.mp3)
+* [24](bartok-mikrokosmos-I/24.mp3)
 
 
 #### Duvernoy - Op.176 - Scuola Primaria
