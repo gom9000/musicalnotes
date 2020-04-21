@@ -1,10 +1,6 @@
 # pianonotes
 my piano lessons excercises
 
-
-### notes
-[autocorso1 Aprile/2020](notes/autocorso1.md)
-
-
-### records
-[autocorso1 records](records/autocorso1.md)
+### Autocorso 1 (aprile/20)
+* [lezioni](notes/autocorso1.md)
+* [esercizi](records/autocorso1.md)
