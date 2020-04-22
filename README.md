@@ -1,5 +1,5 @@
 # pianonotes
 
 ### Autocorso 1 (aprile/20)
-* [lezioni](notes/autocorso1.md)
-* [esercizi](records/autocorso1.md)
+* [lezioni](courses/autocorso-1-lezioni.md)
+* [esercizi](records/autocorso-1-esercizi.md)
