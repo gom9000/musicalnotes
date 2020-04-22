@@ -99,7 +99,7 @@ Elementi di studio di scale e arpeggi:
 * Mikrokosmos #24 (REC)
 
 
-### Lezione 7 (lunedì 21/04/20)
+### Lezione 7 (martedì 21/04/20)
 *scale*:
 * SOL# minore: moto contrario e seste E (REC)
 * FA# maggiore: B+D+E (REC)
@@ -112,3 +112,14 @@ Elementi di studio di scale e arpeggi:
 
 *lettura*:
 * Mikrokosmos #25 (REC)
+
+
+### Lezione 8 (mercoledì 22/04/20)
+*scale*:
+* RE# minore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #11 m.u. metr. 60-120 (REC)
+
+*lettura*:
+* Mikrokosmos #26, #27, #29 lettura (REC)
