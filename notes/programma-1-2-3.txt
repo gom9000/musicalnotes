@@ -1,0 +1,160 @@
+-- -----------------------------------------------------------------------------------------
+    PROGRAMMA 1, 2, 3
+-- -----------------------------------------------------------------------------------------
+
+Tecnica:
+    articolazione delle 5 dita
+    note ribattute
+    terze
+    scale cromatiche per moto retto e contrario, per terza e per sesta (maggiore e minore)
+    scale di ottave maggiori e minori per moto retto e contrario nell'estensione di 2 ottave
+    arpeggi maggiori, minori, 7a dominante e diminuita per moto parallelo e contrario nell'estensione di 4 ottave
+
+Scale:
+    maggiori e minori (armoniche e melodiche) per moto parallelo, contrario, per terze e seste nell'estenione di 4 ottave
+
+Studi:
+    1 Duvernoy Op.176 Scuola Primaria, Op.120
+    1 Pozzoli 30 Studietti elementari, 24 Studi facili e progressivi
+    1 Czerny Op.599
+    1 Heller Op.47
+
+    2 Duvernoy Op.120, Op.276
+    2 Pozzoli 16 studi di agilità
+    2 Heller Op.47
+    2 Bertini Op.100, Op29
+    2,3 Czerny Op.849, Op.636
+
+    3 Heller Op.46, Op.45
+    3 Pozzoli Studi sulle note ribattute, 24 studi di facile meccanismo, ...studi a moto rapido
+
+Polifonia:
+    1 Bach libro di Anna Magdalena, Piccoli Preludi e Fughette, 23 pezzi facili
+    2 Bach 23 pezzi facili, Invenzioni
+    3 Bach Invenzioni, Suites Francesi
+
+Sonate:
+    1 Clementi Op.36
+    2 Clementi Op.37 e 38
+    2 Beethoven sonatina in sol
+
+
+Letteratura:
+    1,2 Il mio Primo Beethoven, Il mio Primo Mozart
+    1,2 Schumann op.68
+    2 Grieg Op.12, Op.54
+    1 Bartok Mikrokosmos II
+    2 Bartok Mikrokosmos III
+    3 Chopin Preludi
+    3 Schumann Arabesque op. 18, op. 15, e op.124
+    3 Liszt Consolazioni
+    3 Bartok Mikrokosmos IV, ... V, VI
+    3 Field Notturni
+    3 Grieg Pezzi Lirici O.43
+    3 Mendelssohn Romanze senza Parole
+-- -----------------------------------------------------------------------------------------
+
+
+-- -----------------------------------------------------------------------------------------
+    PROGRAMMA 1
+-- -----------------------------------------------------------------------------------------
+Tecnica:
+    articolazione delle 5 dita
+    arpeggi maggiori, minori, 7a dominante e diminuita per moto parallelo nell'estensione di 4 ottave
+    note ribattute
+
+Scale:
+    maggiori e minori (armoniche e melodiche) per moto parallelo, contrario, per terze e seste nell'estenione di 4 ottave
+    nelle tonalità fino a due alterazioni in chiave (do, sol, re, fa, sib)
+
+Studi:
+    Duvernoy Op.176 Scuola Primaria
+    Duvernoy Op.120
+    Pozzoli 30 Studietti elementari
+    Pozzoli 24 Studi facili e progressivi
+    Czerny Op.599
+    Heller Op.47
+
+Polifonia:
+    Bach libro di Anna Magdalena
+    Bach Piccoli Preludi e Fughette
+    Bach 23 pezzi facili
+
+Letteratura:
+    Clementi Op.36
+    Il mio Primo Beethoven
+    Il mio Primo Mozart
+    Schumann op.68
+    Bartok Mikrokosmos I, II
+-- -----------------------------------------------------------------------------------------
+
+
+-- -----------------------------------------------------------------------------------------
+    PROGRAMMA 2
+-- -----------------------------------------------------------------------------------------
+Tecnica:
+    articolazione delle 5 dita
+    arpeggi maggiori, minori, 7a dominante e diminuita per moto parallelo e contrario nell'estensione di 4 ottave
+    terze
+
+
+Scale:
+    maggiori e minori (armoniche e melodiche) per moto parallelo, contrario, per terze e seste nell'estenione di 4 ottave
+
+Studi:
+    Duvernoy Op.120
+    Duvernoy Op.276
+    Heller Op.47
+    Pozzoli 16 studi di agilità
+    Bertini Op.100, Op29
+    Czerny Op.849
+    Czerny Op.636
+
+Polifonia:
+    Bach 23 pezzi facili
+    Bach Invenzioni
+
+Letteratura:
+    Clementi Op.37, Op.38
+    Il mio Primo Beethoven
+    Il mio Primo Mozart
+    Schumann op.68
+    Grieg Op.12, Op.54
+    2 Bartok Mikrokosmos III
+-- -----------------------------------------------------------------------------------------
+
+
+-- -----------------------------------------------------------------------------------------
+    PROGRAMMA 3
+-- -----------------------------------------------------------------------------------------
+
+Tecnica:
+    articolazione delle 5 dita
+    arpeggi maggiori, minori, 7a dominante e diminuita per moto parallelo e contrario nell'estensione di 4 ottave
+    scale cromatiche per moto retto e contrario, per terza e per sesta (maggiore e minore)
+    scale di ottave maggiori e minori per moto retto e contrario nell'estensione di 2 ottave
+
+Scale:
+    maggiori e minori (armoniche e melodiche) per moto parallelo, contrario, per terze e seste nell'estenione di 4 ottave
+
+Studi:
+    Czerny Op.849
+    Czerny Op.636
+    Heller Op.46, Op.45
+    Pozzoli Studi sulle note ribattute
+    Pozzoli 24 studi di facile meccanismo
+    Pozzoli studi a moto rapido (*)
+
+Polifonia:
+    Bach Invenzioni
+    Bach Suites Francesi
+
+Letteratura:
+    3 Chopin Preludi
+    3 Schumann Arabesque op. 18, op. 15, e op.124
+    3 Liszt Consolazioni
+    3 Bartok Mikrokosmos IV, ... V, VI
+    3 Field Notturni
+    3 Grieg Pezzi Lirici O.43
+    3 Mendelssohn Romanze senza Parole
+-- -----------------------------------------------------------------------------------------
