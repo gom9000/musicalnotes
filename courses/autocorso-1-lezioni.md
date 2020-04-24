@@ -123,3 +123,14 @@ Elementi di studio di scale e arpeggi:
 
 *lettura*:
 * Mikrokosmos #26, #27, #29 lettura (REC)
+
+
+### Lezione 9 (giovedì 23/04/20)
+*scale*:
+* DO# maggiore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #13 m.sep. metr. 60-144, m.u. lento + metr. 60-112
+
+*lettura*:
+* Mikrokosmos #
