@@ -132,5 +132,13 @@ Elementi di studio di scale e arpeggi:
 *studi*:
 * Duvernoy #13 m.sep. metr. 60-144, m.u. lento + metr. 60-112
 
+
+### Lezione 10 (giovedì 24/04/20)
+*scale*:
+* LA# minore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #13 (REC)
+
 *lettura*:
-* Mikrokosmos #
+* Mikrokosmos #28 lettura (REC)
