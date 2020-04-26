@@ -148,8 +148,15 @@ Elementi di studio di scale e arpeggi:
 *scale*:
 * FA# maggiore: A+B+C+D+E (REC)
 
+
+### Lezione 12 (domenica 26/04/20)
+*scale*:
+* RE minore: B+D+E (REC)
+* SIb maggiore: B+D+E (REC)
+* SOL minore: B+D+E (REC)
+
 *studi*:
-* Duvernoy #
+* Duvernoy #14 m.sep. metr 80-160, m.u. lettura, metr 60-100-120-132 (REC)
 
 *lettura*:
-* Mikrokosmos #
+* Mikrokosmos #30 lettura
