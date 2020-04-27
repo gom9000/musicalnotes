@@ -160,3 +160,15 @@ Elementi di studio di scale e arpeggi:
 
 *lettura*:
 * Mikrokosmos #30 lettura
+
+
+### Lezione 13 (lunedì 27/04/20)
+*scale*:
+* MIB maggiore: B+D+E (REC)
+* DO minore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #15 lettura
+
+*lettura*:
+* Mikrokosmos #30 (REC)
