@@ -168,7 +168,15 @@ Elementi di studio di scale e arpeggi:
 * DO minore: B+D+E (REC)
 
 *studi*:
-* Duvernoy #15 lettura
+* Duvernoy #15 lettura m.sep.
 
 *lettura*:
 * Mikrokosmos #30 (REC)
+
+
+### Lezione 14 (martedì 28/04/20)
+*scale*:
+* LAB maggiore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #15 lettura m.u.

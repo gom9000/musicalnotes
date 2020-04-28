@@ -25,6 +25,7 @@
 * [SOL minore](scale-lettura-80/sol-minore.mp3)
 * [MIb maggiore](scale-lettura-80/mib-maggiore.mp3)
 * [DO minore](scale-lettura-80/do-minore.mp3)
+* [LAb maggiore](scale-lettura-80/lab-maggiore.mp3)
 
 
 #### Bartok - Mikrokosmos I
