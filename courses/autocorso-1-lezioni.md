@@ -180,3 +180,13 @@ Elementi di studio di scale e arpeggi:
 
 *studi*:
 * Duvernoy #15 lettura m.u.
+
+
+### Lezione 15 (mercoledì 29/04/20)
+*scale*:
+* FA minore: D+E (REC)
+* REb maggiore: E (REC)
+* SIb minore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #15 (REC)

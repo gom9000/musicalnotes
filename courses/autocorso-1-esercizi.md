@@ -26,6 +26,9 @@
 * [MIb maggiore](../records/scale-lettura-80/mib-maggiore.mp3)
 * [DO minore](../records/scale-lettura-80/do-minore.mp3)
 * [LAb maggiore](../records/scale-lettura-80/lab-maggiore.mp3)
+* [FA minore](../records/scale-lettura-80/fa-minore.mp3)
+* [REb maggiore](../records/scale-lettura-80/reb-maggiore.mp3)
+* [SIb minore](../records/scale-lettura-80/sib-minore.mp3)
 
 
 #### Bartok - Mikrokosmos I
@@ -76,3 +79,4 @@
 * [12](../records/duvernoy-op176-scuola-primaria/12.mp3)
 * [13](../records/duvernoy-op176-scuola-primaria/13.mp3)
 * [14](../records/duvernoy-op176-scuola-primaria/14.mp3)
+* [15](../records/duvernoy-op176-scuola-primaria/15.mp3)
