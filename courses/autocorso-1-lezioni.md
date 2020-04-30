@@ -2,7 +2,7 @@
 Approfittando della quarantena da coronavirus, con obiettivi:
 
 * *tecnica*: articolazioni sui 12 toni, arpeggi aperti sui 12 toni
-* *scale e arpeggi*: giro completo delle scale (per moti retto, contrario, terze e seste) e degli arpeggi a velocità 80 la quartina per 4 ottave
+* *scale*: giro completo delle scale per moti retto, contrario, terze e seste, a velocità 80 la quartina per 4 ottave
 * *studi*: Duvernoy Op.176 Scuola Primaria
 * *lettura*: Bartok Mikrokosmos I
 
@@ -190,3 +190,12 @@ Elementi di studio di scale e arpeggi:
 
 *studi*:
 * Duvernoy #15 (REC)
+
+
+### Lezione 16 (giovedì 30/04/20)
+*scale*:
+* SOLb maggiore: B+D+E (REC)
+* MIb minore: B+D+E (REC)
+
+*studi*:
+* Duvernoy #16,17 lettura veloce
