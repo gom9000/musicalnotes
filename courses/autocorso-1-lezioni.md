@@ -199,3 +199,14 @@ Elementi di studio di scale e arpeggi:
 
 *studi*:
 * Duvernoy #16,17 lettura veloce
+
+
+### Lezione 17 (venerdì 01/05/20)
+*scale*:
+* DOb maggiore: B+D+E (REC)
+* LAb minore: B+D+E (REC)   *terminato il ciclo delle 15 scale*
+
+*studi*:
+* Duvernoy #16 metr. m.d 80-132 + m.u 80-120 (REC)
+* Duvernoy #17 metr. m.sep 60-88
+* Duvernoy #18 lettura veloce 
