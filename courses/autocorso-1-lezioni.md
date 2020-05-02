@@ -209,4 +209,10 @@ Elementi di studio di scale e arpeggi:
 *studi*:
 * Duvernoy #16 metr. m.d 80-132 + m.u 80-120 (REC)
 * Duvernoy #17 metr. m.sep 60-88
-* Duvernoy #18 lettura veloce 
+* Duvernoy #18 lettura veloce
+
+
+### Lezione 18 (sabato 02/05/20)
+*studi*:
+* Duvernoy #17 metr. m.u 40-80 (REC)
+* Duvernoy #18 metr. m.d. 30-50
