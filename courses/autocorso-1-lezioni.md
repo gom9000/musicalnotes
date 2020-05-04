@@ -1,7 +1,6 @@
 ## Autocorso 1 *aprile/20*
 Approfittando della quarantena da coronavirus, con obiettivi:
 
-* *tecnica*: articolazioni sui 12 toni, arpeggi aperti sui 12 toni
 * *scale*: giro completo delle scale per moti retto, contrario, terze e seste, a velocità 80 la quartina per 4 ottave
 * *studi*: Duvernoy Op.176 Scuola Primaria
 * *lettura*: Bartok Mikrokosmos I
@@ -216,3 +215,16 @@ Elementi di studio di scale e arpeggi:
 *studi*:
 * Duvernoy #17 metr. m.u 40-80 (REC)
 * Duvernoy #18 metr. m.d. 30-50
+
+
+### Lezione 19 (domenica 03/05/20)
+*studi*:
+* Duvernoy #18 metr. m.d. 50-80, metr. m.u. 30-70 (REC)
+* Duvernoy #20, 21 lettura
+
+
+### Lezione 20 (lunedì 04/05/20)
+*studi*:
+* Duvernoy #19 metr. m.sep. 50-92, m.u. lento, metr. m.u. 30-60 (REC)
+* Duvernoy #20 esercizio ribattuto 4' dito m.d., metr. m.u. 30-80 (REC)
+* Duvernoy #21 lettura (REC)

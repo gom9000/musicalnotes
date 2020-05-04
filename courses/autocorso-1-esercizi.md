@@ -86,3 +86,7 @@
 * [15](../records/duvernoy-op176-scuola-primaria/15.mp3)
 * [16](../records/duvernoy-op176-scuola-primaria/16.mp3)
 * [17](../records/duvernoy-op176-scuola-primaria/17.mp3)
+* [18](../records/duvernoy-op176-scuola-primaria/18.mp3)
+* [19](../records/duvernoy-op176-scuola-primaria/19.mp3)
+* [20](../records/duvernoy-op176-scuola-primaria/20.mp3)
+* [21](../records/duvernoy-op176-scuola-primaria/21.mp3)
