@@ -228,3 +228,20 @@ Elementi di studio di scale e arpeggi:
 * Duvernoy #19 metr. m.sep. 50-92, m.u. lento, metr. m.u. 30-60 (REC)
 * Duvernoy #20 esercizio ribattuto 4' dito m.d., metr. m.u. 30-80 (REC)
 * Duvernoy #21 lettura (REC)
+
+
+### Lezione 21 (martedì 05/05/20)
+*studi*:
+* Duvernoy #22 lettura, metr. m.sep. 60-96
+* Duvernoy #24 lettura, metr. m.u. 100-160
+* Duvernoy #23,25 abbozzo di lettura
+
+*lettura*:
+* Mikrokosmos #31 m.sep. lettura
+
+
+### Lezione 22 (mercoledì 06/05/20)
+*studi*:
+* Duvernoy #22 metr. m.u. 30-80
+* Duvernoy #24 metr. m.u. 100-176
+* Duvernoy #23,25 abbozzo di lettura
