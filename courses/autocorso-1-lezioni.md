@@ -245,3 +245,14 @@ Elementi di studio di scale e arpeggi:
 * Duvernoy #22 metr. m.u. 30-80
 * Duvernoy #24 metr. m.u. 100-176
 * Duvernoy #23,25 abbozzo di lettura
+
+
+### Lezione 23 (domenica 10/05/20)
+*studi*:
+* Duvernoy #22 lettura (REC)
+* Duvernoy #23 lettura, m.sep metr 60-80-100-120-132, m.u. metr. 60-80-100 [REC]
+* Duvernoy #24 lettura (REC)
+* Duvernoy #25 nuova diteggiatura e lettura [REC] *terminato il Duvernoy op.176*
+
+*lettura*:
+* Mikrokosmos #31 lettura
