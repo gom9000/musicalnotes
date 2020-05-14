@@ -256,3 +256,8 @@ Elementi di studio di scale e arpeggi:
 
 *lettura*:
 * Mikrokosmos #31 lettura
+
+
+### Lezione 24 (lunedì 11/05/20)
+*lettura*:
+* Mikrokosmos #31, 32 [REC]

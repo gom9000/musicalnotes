@@ -66,6 +66,8 @@
 * [28](../records/bartok-mikrokosmos-I/28.mp3)
 * [29](../records/bartok-mikrokosmos-I/29.mp3)
 * [30](../records/bartok-mikrokosmos-I/30.mp3)
+* [31](../records/bartok-mikrokosmos-I/31.mp3)
+* [32](../records/bartok-mikrokosmos-I/32.mp3)
 
 
 #### Duvernoy - Op.176 - Scuola Primaria
