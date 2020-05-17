@@ -34,3 +34,4 @@
 * [33](bartok-mikrokosmos-I/33.mp3)
 * [34](bartok-mikrokosmos-I/34.mp3)
 * [35](bartok-mikrokosmos-I/35.mp3)
+* [36](bartok-mikrokosmos-I/36.mp3)
