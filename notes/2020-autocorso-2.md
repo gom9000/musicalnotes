@@ -2,14 +2,13 @@
 Continuando lo smart-working da coronavirus, con obiettivi:
 
 * *tecnica*: Articolazioni in tutte le tonalità
-* *studi*: Duvernoy Op.276 Scuola Preparatoria della Velocità, Czerny Op.599 100 Studi Giornalieri
+* *studi*: Duvernoy Op.276 Scuola Preparatoria della Velocità
 * *lettura*: Bartok Mikrokosmos I (completare)
 
 
 ### Lezione 1 (mercoledì 13/05/20)
 *studi*:
-* Duvernoy #1 m.s. metr. 60-144
-* Czerny #1 lettura [REC]
+* Duvernoy #1 m.sep. metr. 60-144
 
 *lettura*:
 * Mikrokosmos #33 lettura
@@ -32,3 +31,16 @@ Continuando lo smart-working da coronavirus, con obiettivi:
 
 *lettura*:
 * Mikrokosmos #36 lettura [REC] fine del Mikrokosmos I!!!
+
+
+### Lezione 4 (lunedì 18/05/20)
+*studi*:
+* Duvernoy #2 m.sep. metr. 80-132, m.u. suonato tanto
+
+
+### Lezione 5 (mertedì 19/05/20)
+*studi*:
+* Duvernoy #2 m.u. metr[9-18] 60-100,80-132,100-144, m.u. metr[finale] 80-100,80-138,100-120
+m.u. metr. 80-132 [REC]
+difficoltà nel passaggio suono amplificato vs cuffia a volume finale
+* Duvernoy #3,4,5 lettura rapida
