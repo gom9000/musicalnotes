@@ -44,3 +44,35 @@ Continuando lo smart-working da coronavirus, con obiettivi:
 m.u. metr. 80-132 [REC]
 difficoltà nel passaggio suono amplificato vs cuffia a volume finale
 * Duvernoy #3,4,5 lettura rapida
+
+
+### Lezione 6 (mercoledì 20/05/20)
+*studi*:
+* Duvernoy #2 m.d. metr[finale] 60-100-120-132, m.u. metr[1-16] 60-100
+* Duvernoy #3,4 lettura m.s. + m.u.
+
+
+### Lezione 7 (giovedì 21/05/20)
+*studi*:
+* Duvernoy #1 m.s. + m.u. metr. 80-120
+* Duvernoy #2 m.s. + m.u. metr. 80-120
+* Duvernoy #4,5 lettura
+
+
+### Lezione 8 (venerdì 22/05/20)
+*studi*:
+* Duvernoy #1 m.u. metr. 80-132 (stabile) REC
+* Duvernoy #2 m.u. metr. 80-132 (quasi stabile) REC
+* Duvernoy #3 m,u, metr. 60-120
+
+
+### Lezione 9 (sabato 23/05/20)
+*studi*:
+* Duvernoy #3 m.u. metr. 80-132 REC
+* Duvernoy #4 m.u. metr. 60-120 (problemi a 112)
+
+
+### Lezione 10 (domenica 24/05/20)
+*studi*:
+* Duvernoy #1,3,4 REC
+* Duvernoy #5 m,u, metr. 66-120
