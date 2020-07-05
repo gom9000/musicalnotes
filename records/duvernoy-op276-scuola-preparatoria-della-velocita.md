@@ -3,3 +3,8 @@
 * [02](duvernoy-op276-scuola-preparatoria-della-velocita/02.mp3)
 * [03](duvernoy-op276-scuola-preparatoria-della-velocita/03.mp3)
 * [04](duvernoy-op276-scuola-preparatoria-della-velocita/04.mp3)
+* [05](duvernoy-op276-scuola-preparatoria-della-velocita/05.mp3)
+* [06](duvernoy-op276-scuola-preparatoria-della-velocita/06.mp3)
+* [07](duvernoy-op276-scuola-preparatoria-della-velocita/07.mp3)
+* [08](duvernoy-op276-scuola-preparatoria-della-velocita/08.mp3)
+* [09](duvernoy-op276-scuola-preparatoria-della-velocita/09.mp3)
